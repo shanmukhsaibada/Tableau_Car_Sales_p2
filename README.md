@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/shanmukha.sai.bada/viz/CarSales_17568614319390/CarDashboard?publish=yes">
-    <img src="CARSASH.PNG" alt="Car Sales Dashboard" width="800">
+    <img src="CARDASH.PNG" alt="Car Sales Dashboard" width="800">
   </a>
 </p>
 
